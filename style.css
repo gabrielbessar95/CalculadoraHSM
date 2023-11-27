@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url("https://images8.alphacoders.com/972/972226.jpg");
+    /*background: linear-gradient(150deg, rgb(35, 128, 4), #073a02);*/
+    height: 100vh;
+    color: #ffffff;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .box {
+    background-color: #107e23;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+  button {
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    background-color: #9c0d0d;
+    color: #ffffff;
+  }
+  
+  button:hover {
+    background-color: #00000075;
+  }
+  
+  .tela {
+    background-color: #ffffff;
+    height: 30px;
+    color: #000;
+    font-size: 25px;
+    text-align: end;
+    margin: 3px;
+  }
