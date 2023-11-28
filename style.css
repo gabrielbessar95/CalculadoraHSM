@@ -16,9 +16,9 @@
   .box {
     background-color: #107e23;
     position: absolute;
-    top: 30%;
+    top: 40%;
     left: 20%;
-    transform: translate(-50%, -50%);
+    transform: translate(-20%, -40%);
     padding: 20px;
     border-radius: 20px;
   }
@@ -29,7 +29,7 @@
     font-size: 25px;
     cursor: pointer;
     border: none;
-    background-color: #9c0d0d;
+    background-color: #0a2204;
     color: #ffffff;
   }
   
@@ -45,3 +45,4 @@
     text-align: end;
     margin: 3px;
   }
+
